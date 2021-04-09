@@ -20,5 +20,4 @@ export class CustomersComponent implements OnInit {
       { id: 4, name: 'Jim Thomas', city: 'New York', orderTotal: 599.99, customerSince: new Date(2002, 10, 31)},
     ];
   }
-
 }
